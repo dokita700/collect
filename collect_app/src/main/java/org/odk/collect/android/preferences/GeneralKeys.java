@@ -124,7 +124,7 @@ public final class GeneralKeys {
         hashMap.put(KEY_FORMLIST_URL,               Collect.getInstance().getString(R.string.default_odk_formlist));
         hashMap.put(KEY_SUBMISSION_URL,             Collect.getInstance().getString(R.string.default_odk_submission));
         // server_preferences.xml
-        hashMap.put(KEY_PROTOCOL,                   Collect.getInstance().getString(R.string.protocol_odk_default));
+        hashMap.put(KEY_PROTOCOL,                   Collect.getInstance().getString(R.string.protocol_other));
         hashMap.put(KEY_SMS_GATEWAY,                "");
         hashMap.put(KEY_SUBMISSION_TRANSPORT_TYPE,  Collect.getInstance().getString(R.string.transport_type_value_internet));
         // user_interface_preferences.xml
